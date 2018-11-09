@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A607F040-A419-4C0A-BF6A-62AB24AAAB26}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="sistVetor/Program.cs">
+    <Files>
+      <File FileName="sistVetor/Program.cs" Line="9" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.sistVetor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
